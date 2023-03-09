@@ -1,0 +1,6 @@
+private_subnet1_cidr = "10.1.10.0/24"
+private_subnet2_cidr = "10.1.20.0/24"
+private_subnet3_cidr = "10.1.30.0/24"
+private_subnet1_name = "Terraform_private_Subnet1-testing"
+private_subnet2_name = "Terraform_private_Subnet2-testing"
+private_subnet3_name = "Terraform_private_Subnet3-testing"
